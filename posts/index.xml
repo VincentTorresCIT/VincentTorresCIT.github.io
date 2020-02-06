@@ -17,7 +17,7 @@
       <pubDate>Mon, 03 Feb 2020 10:50:43 -0800</pubDate>
       
       <guid>http://example.org/posts/my-first-post/</guid>
-      <description>Hello, my name is Vincent Torres and I am currently in my last semester at the University of Northridge in California for Computer Information Technology. :s/\s+/\r/g This will be my blog where I will document my endeavors and gained knowledge throughout the week.</description>
+      <description>Hello, my name is Vincent Torres and I am currently in my last semester at the University of Northridge in California for Computer Information Technology. This will be my blog where I will document my endeavors and gained knowledge throughout the week.</description>
     </item>
     
   </channel>
