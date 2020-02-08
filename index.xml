@@ -1,24 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CIT481 Weekly Blog</title>
-    <link>http://example.org/</link>
-    <description>Recent content on CIT481 Weekly Blog</description>
+    <title>CIT481 Blog</title>
+    <link>https://vincenttorres.com/</link>
+    <description>Recent content on CIT481 Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Feb 2020 10:50:43 -0800</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vincenttorres.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Blog 0</title>
-      <link>http://example.org/posts/my-first-post/</link>
-      <pubDate>Mon, 03 Feb 2020 10:50:43 -0800</pubDate>
-      
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description>Hello, my name is Vincent Torres and I am currently in my last semester at the University of Northridge in California for Computer Information Technology. This will be my blog where I will document my endeavors and gained knowledge throughout the week.</description>
-    </item>
     
   </channel>
 </rss>
